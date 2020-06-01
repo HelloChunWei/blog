@@ -13,4 +13,5 @@
 ## 文章列表
 
 2020-06-01. [為什麼大家都說 async/await 是 ES7 的規範呢?](https://github.com/HelloJunWei/blog/issues/2)
+
 2020-05-18. [Javascript @decorator 你搞得我好亂呀](https://github.com/HelloJunWei/blog/issues/1)
