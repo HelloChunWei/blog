@@ -12,6 +12,8 @@
 
 ## 文章列表
 
+2020-07-12. [Sign with Apple 流程](https://github.com/HelloJunWei/blog/issues/4)
+
 2020-06-25. [我從 vscode 到 vim](https://github.com/HelloJunWei/blog/issues/3)
 
 2020-06-01. [為什麼大家都說 async/await 是 ES7 的規範呢?](https://github.com/HelloJunWei/blog/issues/2)
