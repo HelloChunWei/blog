@@ -12,6 +12,8 @@
 
 ## 文章列表
 
+2021-01-28. [javascript-async和await的原理](https://github.com/HelloJunWei/blog/issues/6)
+
 2020-10-04. [cookie? 說難不難，說簡單不簡單](https://github.com/HelloJunWei/blog/issues/5)
 
 2020-07-12. [Sign with Apple 流程](https://github.com/HelloJunWei/blog/issues/4)
