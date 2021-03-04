@@ -11,6 +11,7 @@
 ***究竟最後結果會如何呢？讓我們繼續看下去***
 
 ## 文章列表
+2021-02-24. [我所不知道的javascript](https://github.com/HelloJunWei/blog/issues/7)
 
 2021-01-28. [javascript-async和await的原理](https://github.com/HelloJunWei/blog/issues/6)
 
