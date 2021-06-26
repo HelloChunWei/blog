@@ -11,6 +11,8 @@
 ***究竟最後結果會如何呢？讓我們繼續看下去***
 
 ## 文章列表
+2021-06-26. [匈牙利演算法讀書心得1 -- 增廣路徑 (augmenting paths) ](https://github.com/HelloJunWei/blog/issues/9)
+
 2021-03-12. [Javascript 邏輯運算子(AND OR) 再理解](https://github.com/HelloJunWei/blog/issues/8)
 
 2021-02-24. [我所不知道的javascript](https://github.com/HelloJunWei/blog/issues/7)
